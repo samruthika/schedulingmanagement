@@ -1,2 +1,10 @@
 # schedulingmanagement
-it will schedule the time and take the order process the on time and it will check the status 
+Scheduling Management is a system used to schedule time and manage order processing.  
+It helps to complete the process on time and check the status of orders.
+- Time scheduling
+- Order processing
+- Status checking
+- Easy to use
+- Time management
+The main objective of this project is to manage time properly and complete the order process without delay.
+
