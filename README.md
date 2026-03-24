@@ -34,6 +34,7 @@ Create → Validate → Store → Notify → Track
 - Simple and intuitive UI
 
 🛠 Tech Stack
+
 Category| Technology
 Frontend| React.js, Tailwind CSS
 Backend| Flask (Python)
