@@ -1,5 +1,6 @@
  Scheduling Management System
 A smart and simple solution to manage tasks, appointments, and daily schedules efficiently.
+
 ✨ Overview
 The Scheduling Management System helps users organize their time effectively by providing a centralized platform to create, track, and manage schedules.
 It minimizes manual effort, avoids conflicts, and ensures you never miss an important task.
