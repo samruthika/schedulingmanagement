@@ -6,6 +6,7 @@ A smart and simple solution for managing tasks, appointments, and daily schedule
 The Scheduling Management System helps users organize their time effectively by providing a centralized platform to create, track, and manage schedules. It minimizes manual effort, avoids scheduling conflicts, and ensures that you never miss an important task.
 
 💡 Solution
+
 This system follows an automated workflow:
 Create → Validate → Store → Notify → Track
 ✔ Smart scheduling
@@ -46,6 +47,7 @@ ORM
 SQLAlchemy
 
 📸 System Modules
+
 
 Task Manager → Create and manage schedules
 Notification System → Alerts and reminders
