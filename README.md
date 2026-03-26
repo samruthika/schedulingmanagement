@@ -1,58 +1,61 @@
-Scheduling Management System
+🚀 Scheduling Management System
 
-A smart and simple solution for managing tasks, appointments, and daily schedules efficiently.
+.A smart and simple solution for managing tasks, appointments, 
+and daily schedules efficiently.
 
 ✨ Overview
 
-The Scheduling Management System is a smart and efficient solution designed to manage tasks, appointments, and daily activities in a structured way.
+.The Scheduling Management System is a smart and efficient solution designed to manage tasks, appointments
+and daily activities in a structured way.
 
-It provides a centralized platform to:
+.It provides a centralized platform to:
 
-Create schedules
-Track tasks
-Receive automated reminders
+.Create schedules
+.Track tasks
+.Receive automated reminders
 
-This system reduces manual effort, prevents scheduling conflicts, and ensures timely execution of tasks.
+.This system reduces manual effort, prevents scheduling conflicts,
+and ensures timely execution of tasks.
 
 💡 Solution Approach
 
-The system follows an automated workflow pipeline:
+.The system follows an automated workflow pipeline:
 
-Create → Validate → Store → Schedule → Notify → Track
+.Create → Validate → Store → Schedule → Notify → Track
 ✔ Key Capabilities
-Smart task scheduling
-Conflict detection
-Automated notifications
-Real-time updates
+✔Smart task scheduling
+✔Conflict detection
+✔Automated notifications
+✔Real-time updates
 
 🔁 Working Process
 
-User creates a task/event
-Selects date and time
-System validates time availability
-Task is stored in database
-Scheduler sets reminder
-Notification is triggered at the right time
-Task status is updated (Pending → Completed)
+✔User creates a task/event
+✔Selects date and time
+✔System validates time availability
+✔Task is stored in database
+✔Scheduler sets reminder
+✔Notification is triggered at the right time
+✔Task status is updated (Pending → Completed)
 
 🧩 Core Features
 
-📅 Task Scheduling
+✔📅 Task Scheduling
 Create and manage tasks/events
 Assign date & time
-⚠️ Conflict Detection
+✔⚠️ Conflict Detection
 Prevent overlapping schedules
 Notify user if conflict exists
-🔔 Notification System
+✔🔔 Notification System
 Automated reminders
 Real-time alerts
-📊 Dashboard
+✔📊 Dashboard
 Daily / weekly schedule view
 Task summary
-✅ Task Tracking
+✔✅ Task Tracking
 Mark tasks as completed
 Monitor pending tasks
-🎯 User-Friendly Interface
+✔🎯 User-Friendly Interface
 Simple and intuitive UI
 Easy interaction (Bot / Web / App)
 
