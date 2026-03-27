@@ -1,3 +1,12 @@
+
+## Contributors
+
+- My Profile: https://github.com/samruthika
+- My Friend: https://github.com/VAI262005
+_ My Friend:shreedhakshadjeee-spec
+
+
+
 🚀 Scheduling Management System
  smart and simple solution for managing tasks, appointments, 
 and daily schedules efficiently.
